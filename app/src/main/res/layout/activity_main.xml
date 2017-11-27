@@ -6,6 +6,12 @@
     tools:context=".MainActivity"
     android:background="@drawable/ic_background">
 
+    <!--<Button-->
+        <!--android:id="@+id/btnStart"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="START"/>-->
+
     <WebView
         android:id="@+id/webview"
         android:layout_alignParentTop="true"
